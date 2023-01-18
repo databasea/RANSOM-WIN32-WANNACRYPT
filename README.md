@@ -1,3 +1,4 @@
+File Password (FOR SAMPLE): infected
 ![IMAGE](https://raw.githubusercontent.com/dvdatabase/RANSOM-WIN32-WANNACRYPT/main/IMAGES/1.jpg)
 ![IMAGE](https://raw.githubusercontent.com/dvdatabase/RANSOM-WIN32-WANNACRYPT/main/IMAGES/2.jpg)
 ![IMAGE](https://raw.githubusercontent.com/dvdatabase/RANSOM-WIN32-WANNACRYPT/main/IMAGES/3.jpg)
